@@ -7,7 +7,7 @@
    I enjoy exploring chip architectures, experimenting with RTL coding, and tinkering with FPGA designs in my spare time. With each project, I embrace the challenges of VLSI design with a thirst for knowledge, 
    Continually expanding my skills and understanding of this dynamic field.
    I bring hands-on experience in utilizing industry-standard tools such as ModelSim, Quartus, and ANSYS HFSS to tackle complex engineering challenges. 
-   Designing and learning various combinational, sequential circuits, memory circuits, CPUs.</h3>
+   Designing and learning various combinational, sequential circuits, memory circuits, CPUs.Currently, I am actively learning scripting languages like Perl to further enhance my skill set and broaden my capabilities in automation and tool development</h3>
 
 
 
